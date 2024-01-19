@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "ionic_capacitor_issue_7196",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
